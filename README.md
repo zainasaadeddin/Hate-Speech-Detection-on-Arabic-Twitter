@@ -14,8 +14,8 @@ Our tool, built on different specialized AI technologies like Machine Learning, 
 
 Team: 
 
-- Zeina Saadeddin, technical specialist
-- Diyaa Awad, technical specialist
-- Amon Alsheikh, journalist and digital media specialist
+- Zeina Saadeddin, Technical Specialist
+- Diyaa Awad, Technical Specialist
+- Amon Alsheikh, journalist and Digital Media Specialist
 - Esraa Awaisa, Statistics specialist
-- zafer Sabbah, journalist
+- Zafer Sabbah, Journalist
