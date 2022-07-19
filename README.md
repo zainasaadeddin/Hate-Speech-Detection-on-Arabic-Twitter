@@ -14,8 +14,8 @@ Our tool, built on different specialized AI technologies like Machine Learning, 
 
 Team: 
 
-- Zeina Saadeddin team leader Computer Engineering
-- Diyaa Awad, Male, technical specialist
-- Amon Alsheikh, Female, journalist and digital media specialist
-- Esraa Awaisa, Female, Statistics specialist
-- zafer Sabbah, Male, journalist
+- Zeina Saadeddin, technical specialist
+- Diyaa Awad, technical specialist
+- Amon Alsheikh, journalist and digital media specialist
+- Esraa Awaisa, Statistics specialist
+- zafer Sabbah, journalist
