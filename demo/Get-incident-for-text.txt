@@ -1,0 +1,13 @@
+# POST request then call endpoint:
+
+POST https://www.arhateapi.ai/api/v1/getIncidentForText/getIncidentForText
+
+{
+    "lang": "ara",
+    "text": "فلسطين اوقفوا العنف ضد النساء",
+    "topClustersCount": 10,
+    "apiKey": " "
+}
+
+# GET request then call:
+GET https://www.arhateapi.ai/api/v1/getEventForText/getEventForText?lang=ara&text=" "&topClustersCount=10&apiKey=" "&callback=JSON_CALLBACK 
