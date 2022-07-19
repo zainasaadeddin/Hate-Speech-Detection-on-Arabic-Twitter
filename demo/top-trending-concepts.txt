@@ -1,0 +1,19 @@
+#  POST request then call endpoint:
+
+POST https://www.arhateapi.ai/api/v1/trends/getHateTrendGroups 
+Body:
+
+{
+    "HateConceptType": [
+        "person",
+        "org",
+        "loc",
+        "account"
+    ],
+    "source": "twitter",
+    "conceptCount": 20,
+    "apiKey": ""
+}
+
+GET request then call:
+GET https://www.arhateapi.ai/api/v1/trends/getHateTrendGroups?HateConceptType=person&conceptType=org&conceptType=loc&conceptType=account&source=twitter&conceptCount=20&apiKey=" "&callback=JSON_CALLBACK 
