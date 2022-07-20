@@ -3,3 +3,12 @@ A Unified Taxonomy of Harmful Content
 Endpoint
 
 POST|GET https://www.arhateapi.ai/api/v1/categorize 
+
+
+Request body
+
+{
+  "text": " ",
+  "taxonomy": " ",
+  "apiKey": "YOUR_API_KEY"
+}
