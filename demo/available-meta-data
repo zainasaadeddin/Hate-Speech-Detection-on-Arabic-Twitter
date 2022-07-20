@@ -1,0 +1,8 @@
+extract from the twitter full information about the tweet
+
+Endpoint
+
+POST|GET https://www.arhateapi.ai/api/v1/extractTweetInfo
+
+Headers
+Content-Type: application/json
