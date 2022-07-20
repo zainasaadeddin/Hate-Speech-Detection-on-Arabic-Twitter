@@ -1,0 +1,40 @@
+API call to train a definition of an incident by analyzing the tweets that match a particular search filter. 
+The collection of tweets that will be analyzed can be identified based on a Twitter username, a hashtag or a regular keyword
+
+Once the incident is trained, you can use the endpoint /incidentTopic with action=getTrainedIncident and your incident uri to retrieve the incident definition.
+
+Endpoint
+
+POST|GET https://www.arhateapi.ai/api/v1/trainIncidentOnTwitter 
+
+- apiKey  string (required)
+
+Your API key
+
+- twitterQuery  string (required)
+
+String containing the content to search for. It can be a Twitter user account (using "@" prefix or user's Twitter url), a hash tag (using "#" prefix) or a regular keyword.
+
+- useTweetText boolean
+
+Annotate and extract information from the content of the tweets.
+Default value: false
+
+- maxTweets integer
+
+Maximum number of matching tweets to analyze.
+Default value: 2000
+
+- ignoreConceptTypes string
+
+If you want to ignore certain concept types from the incident 
+
+- ignoreTwitterAccount list
+
+If you want to ignore certain accounts from the incident 
+
+- notifyEmailAddress string
+
+The email address to which you would like us to send a notification email once the training of the topic is finished.
+
+
