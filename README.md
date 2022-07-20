@@ -19,3 +19,11 @@ Team:
 - Amon Alsheikh, Journalist and Digital Media Specialist
 - Esraa Awaisa, Statistics specialist
 - Zafer Sabbah, Journalist
+
+
+Supervisors:
+
+- Dr. Abdel-Razzak Natsheh 
+- Dr. Mohammad Jubran
+- Dr. Hamed Abdelhaq 
+
