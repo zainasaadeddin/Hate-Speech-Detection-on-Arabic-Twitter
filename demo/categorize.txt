@@ -1,0 +1,5 @@
+A Unified Taxonomy of Harmful Content
+
+Endpoint
+
+POST|GET https://arhateapi.ai/api/v1/categorize 
