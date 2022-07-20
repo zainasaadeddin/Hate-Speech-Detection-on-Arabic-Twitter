@@ -1,1 +1,16 @@
+Endpoint
 
+POST|GET https://www.arhateapi/api/v1/sentiment 
+
+Headers
+
+Content-Type: application/json
+
+Request body
+
+{
+  "content": "",
+  "method": "rnn",
+  "size": " ",
+  "apiKey": "YOUR_API_KEY"
+}
