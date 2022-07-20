@@ -1,6 +1,6 @@
 Endpoint
 
-POST|GET https://www.arhateapi/api/v1/sentiment 
+POST|GET https://www.arhateapi.ai/api/v1/sentiment 
 
 Headers
 
