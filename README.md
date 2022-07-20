@@ -16,6 +16,6 @@ Team:
 
 - Zeina Saadeddin, Technical Specialist
 - Diyaa Awad, Technical Specialist
-- Amon Alsheikh, journalist and Digital Media Specialist
+- Amon Alsheikh, Journalist and Digital Media Specialist
 - Esraa Awaisa, Statistics specialist
 - Zafer Sabbah, Journalist
