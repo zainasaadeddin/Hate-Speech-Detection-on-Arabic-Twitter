@@ -1,0 +1,13 @@
+API endpoint to obtain a list of breaking events and their breaking score. The breaking events are events:
+
+(a) that occured very recently.
+(b) for which we have collected many articles about them in a short time span. 
+(c) for which the intensity of reporting is increasing. 
+
+Get the list of top current breaking incidents.
+Endpoint
+
+POST|GET https://www.arhateapi.ai/api/v1/incident/getBreakingIncidents
+
+Headers
+Content-Type: application/json
