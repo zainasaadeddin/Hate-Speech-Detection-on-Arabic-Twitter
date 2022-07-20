@@ -9,6 +9,6 @@ Request body
 
 {
   "text": " ",
-  "taxonomy": " ",
+  "taxonomy": "arhate",
   "apiKey": "YOUR_API_KEY"
 }
