@@ -1,0 +1,4 @@
+The API call can be used to semantically annotate the provided tweets.
+
+Endpoint
+POST|GET https://www.arhateapi.ai/api/v1/annotate 
